@@ -1,1 +1,3 @@
-This is cool feature 
+This is cool feature
+
+Added more functionality on feature 1 
