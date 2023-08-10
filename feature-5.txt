@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 This is a latest feature 
-=======
-This is a latest feature
 
-this is brand new feature 
->>>>>>> 3265b99 (added some feature for master)
-=======
-This is a latest feature
-
-this is brand new feature 
->>>>>>> 2f42593 (added brand new feature)
+this is brand new feature
